@@ -59,6 +59,12 @@ section h2 {
   width: 16rem;
 }
 
+.already-member {
+  display: block;
+  font-size: 14px;
+  padding: 0.5rem 1rem;
+}
+
 #mainNav {
   border-color: rgba(34, 34, 34, 0.05);
   background-color: white;
