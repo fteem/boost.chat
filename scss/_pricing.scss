@@ -1,0 +1,18 @@
+// Styling for the download section
+section.pricing {
+    text-align: center;
+    h2 {
+        margin-top: 0;
+        margin-bottom: 25px;
+    }
+    .card-img-top {
+      background-color: $gray-lighter;
+    }
+    .card-title {
+      font-weight: bold;
+    }
+    li {
+      text-align: left;
+    }
+ }
+ 
