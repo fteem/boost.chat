@@ -65,6 +65,12 @@ section h2 {
   padding: 0.5rem 1rem;
 }
 
+.btn-md {
+  font-size: 0.75rem;
+  padding: .5rem 1rem;
+  line-height: 1.5;
+}
+
 #mainNav {
   border-color: rgba(34, 34, 34, 0.05);
   background-color: white;
